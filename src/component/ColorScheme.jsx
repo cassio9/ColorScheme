@@ -19,7 +19,7 @@ function ColorScheme({ seedColor }) {
       }}
     >
       <span>{`${seedColor}`}</span>
-      <span className="tooltiptext" id="myTooltip">
+      <span className="tooltip-text" id="myTooltip">
         Copy
       </span>
     </div>
